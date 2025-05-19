@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "Full-stack developer passionate about creating beautiful and functional web applications.",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "darkMode": {
+    "light": "Switch to light mode",
+    "dark": "Switch to dark mode"
+  },
+  "language": {
+    "switch": "Switch language"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "noAccount": "Don't have an account? Sign up",
+    "haveAccount": "Already have an account? Sign in",
+    "processing": "Processing..."
+  },
+  "hero": {
+    "title": "Arash Sheydaei",
+    "subtitle": "Full Stack Developer & UI/UX Designer",
+    "contact": "Contact Me",
+    "viewWork": "View My Work"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Full Stack Developer & UI/UX Designer",
+    "description": "I am a passionate full-stack developer with expertise in modern web technologies. With a strong foundation in both front-end and back-end development, I create seamless and efficient web applications that deliver exceptional user experiences.",
+    "profileAlt": "Arash Sheydaei",
+    "yearsExperience": "Years Experience",
+    "completedProjects": "Completed Projects",
+    "happyClients": "Happy Clients",
+    "awards": "Awards",
+    "contactMe": "Contact Me",
+    "downloadCV": "Download CV"
+  },
+  "skills": {
+    "title": "My Skills",
+    "description": "Here are my technical skills and expertise in various technologies and tools.",
+    "frontend": "Frontend Development",
+    "backend": "Backend Development",
+    "tools": "Tools & Others",
+    "continuous": "Continuously learning and improving my skills",
+    "viewProjects": "View My Projects"
+  },
+  "portfolio": {
+    "title": "My Portfolio",
+    "description": "Here are some of my recent projects. Each project is a unique piece of development.",
+    "categories": {
+      "all": "All",
+      "web": "Web Development",
+      "ai": "AI/ML"
+    },
+    "viewDetails": "View Details",
+    "liveDemo": "Live Demo",
+    "projects": {
+      "ecommerce": {
+        "description": "A full-featured e-commerce platform with real-time inventory management and payment processing."
+      },
+      "taskmanager": {
+        "description": "A collaborative task management application with real-time updates and team features."
+      },
+      "aigenerator": {
+        "description": "An AI-powered image generation tool using OpenAI's DALL-E API."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Feel free to contact me for any work or suggestions below",
+    "sendMessage": "Send Message",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again.",
+    "contactInfo": "Contact Information",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "Tehran, Iran",
+    "followMe": "Follow Me"
+  }
+} 
